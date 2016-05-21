@@ -1,6 +1,6 @@
 {
   "name": "compare-version",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Compares two strings representing a version number in semver format",
   "repository": {
     "type": "git",
